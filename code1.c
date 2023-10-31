@@ -1,3 +1,8 @@
 if nowday 10:
- print 上旬
+<<<<<<< HEAD
+ print 上旬a
  
+=======
+ print 上旬
+ future b henkou a
+>>>>>>> fuature/b
